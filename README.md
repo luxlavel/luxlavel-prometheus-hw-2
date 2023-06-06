@@ -4,9 +4,9 @@
 
 ### Задание 1
 
-`node exporter, стоящий на мониторинге, остановелен. Скриншот раздела оповещений Prometheus, оповещение в статусе Pending`
+`node exporter, стоящий на мониторинге, остановелен.`
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Скриншот раздела оповещений Prometheus, оповещение в статусе Pending](https://github.com/luxlavel/prometheus-hw-2/blob/master/Screenshots/prometheus%20hw%202-1.png)
 
 ---
 
@@ -14,8 +14,8 @@
 
 `Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения`
 
-![скриншот Alerts из Prometheus - правило оповещения в статусе Fireing](ссылка на скриншот 2)
-![скриншот из Alertmanager - действующее правило оповещения](ссылка на скриншот 2)
+![скриншот Alerts из Prometheus - правило оповещения в статусе Fireing](https://github.com/luxlavel/prometheus-hw-2/blob/master/Screenshots/prometheus%20hw%202-2.1.png)
+![скриншот из Alertmanager - действующее правило оповещения](https://github.com/luxlavel/prometheus-hw-2/blob/master/Screenshots/prometheus%20hw%202-2.2.png)
 
 ---
 
@@ -23,5 +23,5 @@
 
 `приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus`
 
-![скриншот браузера с открытым эндпоинтом](ссылка на скриншот 2)
-![скриншот списка таргетов из интерфейса Prometheus](ссылка на скриншот 2)
+![скриншот браузера с открытым эндпоинтом](https://github.com/luxlavel/prometheus-hw-2/blob/master/Screenshots/prometheus%20hw%202-3.1.png)
+![скриншот списка таргетов из интерфейса Prometheus](https://github.com/luxlavel/prometheus-hw-2/blob/master/Screenshots/prometheus%20hw%202-3.2.png)
